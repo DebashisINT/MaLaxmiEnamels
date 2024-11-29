@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1448848513",
+    "project_id": "ma-laxmi-enamels",
+    "storage_bucket": "ma-laxmi-enamels.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1448848513:android:5b1bb20df0a281db32b180",
+        "android_client_info": {
+          "package_name": "com.breezefieldmalaxmienamels"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZpLGunbp8qiM9sax4X-pEv1yVqMGO-nA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
